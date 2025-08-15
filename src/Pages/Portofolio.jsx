@@ -104,18 +104,18 @@ function a11yProps(index) {
 
 // techStacks tetap sama
 const techStacks = [
-  { icon: "html.svg", language: "HTML" },
-  { icon: "css.svg", language: "CSS" },
+  { icon: "dart.svg", language: "Dart" },
+  { icon: "flutter.svg", language: "Flutter" },
+  { icon: "firebase.svg", language: "Firebase" },
+  { icon: "swift.svg", language: "Swift" },
   { icon: "javascript.svg", language: "JavaScript" },
-  { icon: "tailwind.svg", language: "Tailwind CSS" },
+  { icon: "reactjs.svg", language: "React Native" },
   { icon: "reactjs.svg", language: "ReactJS" },
-  { icon: "vite.svg", language: "Vite" },
+  { icon: "angular.svg", language: "Angular" },
   { icon: "nodejs.svg", language: "Node JS" },
   { icon: "bootstrap.svg", language: "Bootstrap" },
-  { icon: "firebase.svg", language: "Firebase" },
   { icon: "MUI.svg", language: "Material UI" },
   { icon: "vercel.svg", language: "Vercel" },
-  { icon: "SweetAlert.svg", language: "SweetAlert2" },
 ];
 
 export default function FullWidthTabs() {
